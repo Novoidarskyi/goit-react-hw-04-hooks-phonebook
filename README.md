@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with
@@ -89,3 +91,10 @@ This section has moved here:
 
 This section has moved here:
 [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+
+# goit-react-hw-04-hooks-phonebook
+
+Домашнее задание по react-04/task-2
+
+> > > > > > > 20dbc6df3f843839c1bf194642388ff58910475c
